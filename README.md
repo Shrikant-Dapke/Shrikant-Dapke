@@ -62,7 +62,7 @@
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="www.linkedin.com/in/shrikant-dapke">
+  <a href="https://www.linkedin.com/in/shrikant-dapke/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://github.com/Shrikant-Dapke">
