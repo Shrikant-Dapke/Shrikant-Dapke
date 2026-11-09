@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Shrikant Dapke — AI &amp; Software Developer">
+  <title>Shrikant Dapke — AI &amp; Software Developer</title>
+  <desc>Minimal futuristic hero banner: dark charcoal background, electric-blue and violet gradients, subtle grid and circuit geometry.</desc>
+
+  <defs>
+    <linearGradient id="nameGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#8ab8ff"/>
+      <stop offset="0.45" stop-color="#5d8bff"/>
+      <stop offset="1" stop-color="#ab86ff"/>
+    </linearGradient>
+    <linearGradient id="accentGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#4f7bff"/>
+      <stop offset="1" stop-color="#9d6bff"/>
+    </linearGradient>
+    <linearGradient id="frameGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#4f7bff" stop-opacity="0.30"/>
+      <stop offset="1" stop-color="#9d6bff" stop-opacity="0.30"/>
+    </linearGradient>
+    <linearGradient id="edgeFadeGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#4f7bff" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#4f7bff" stop-opacity="0.8"/>
+      <stop offset="1" stop-color="#9d6bff" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="glowBlue" cx="0.16" cy="0.05" r="0.75">
+      <stop offset="0" stop-color="#17396b" stop-opacity="0.5"/>
+      <stop offset="1" stop-color="#17396b" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowViolet" cx="0.86" cy="0.95" r="0.7">
+      <stop offset="0" stop-color="#3b2a6b" stop-opacity="0.5"/>
+      <stop offset="1" stop-color="#3b2a6b" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse">
+      <path d="M44 0H0V44" fill="none" stroke="#aebad1" stroke-opacity="0.05" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <!-- Background: charcoal base, faint grid, ambient glows -->
+  <rect width="1200" height="300" fill="#0b0e14"/>
+  <rect width="1200" height="300" fill="url(#grid)"/>
+  <rect width="1200" height="300" fill="url(#glowBlue)"/>
+  <rect width="1200" height="300" fill="url(#glowViolet)"/>
+
+  <!-- Inset frame -->
+  <rect x="16" y="16" width="1168" height="268" rx="18" fill="none" stroke="url(#frameGrad)" stroke-width="1.5"/>
+
+  <!-- Corner accents: electric blue top-left, violet bottom-right -->
+  <path d="M16 64V34a18 18 0 0 1 18-18h30" fill="none" stroke="#4f7bff" stroke-opacity="0.55" stroke-width="2" stroke-linecap="round"/>
+  <path d="M1136 284h30a18 18 0 0 0 18-18v-30" fill="none" stroke="#9d6bff" stroke-opacity="0.55" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- Circuit trace, top-left -->
+  <g fill="none" stroke="#4f7bff" stroke-opacity="0.28" stroke-width="1.5" stroke-linejoin="round">
+    <path d="M84 96h96l20-20h86"/>
+    <path d="M84 96v-34h64"/>
+  </g>
+  <g fill="#7fa8ff" fill-opacity="0.45" stroke="none">
+    <circle cx="84" cy="96" r="3.5"/>
+    <circle cx="286" cy="76" r="3.5"/>
+    <circle cx="148" cy="62" r="3.5"/>
+  </g>
+
+  <!-- Circuit trace, bottom-right -->
+  <g fill="none" stroke="#9d6bff" stroke-opacity="0.28" stroke-width="1.5" stroke-linejoin="round">
+    <path d="M1116 204h-96l-20 20h-86"/>
+    <path d="M1116 204v34h-64"/>
+  </g>
+  <g fill="#b792ff" fill-opacity="0.45" stroke="none">
+    <circle cx="1116" cy="204" r="3.5"/>
+    <circle cx="914" cy="224" r="3.5"/>
+    <circle cx="1052" cy="238" r="3.5"/>
+  </g>
+
+  <!-- Ambient geometry: orbit arcs and plus marks -->
+  <g fill="none">
+    <circle cx="1042" cy="-44" r="118" stroke="#4f7bff" stroke-opacity="0.22"/>
+    <circle cx="1042" cy="-44" r="86" stroke="#9d6bff" stroke-opacity="0.16"/>
+  </g>
+  <g stroke="#aebad1" stroke-opacity="0.22" stroke-width="1.5" stroke-linecap="round">
+    <path d="M360 258h10M365 253v10"/>
+    <path d="M836 42h10M841 37v10"/>
+    <path d="M1082 106h10M1087 101v10"/>
+    <path d="M118 202h10M123 197v10"/>
+  </g>
+
+  <!-- Divider -->
+  <rect x="520" y="166" width="160" height="1.5" fill="url(#accentGrad)"/>
+  <circle cx="597" cy="166.75" r="2.25" fill="#4f7bff" fill-opacity="0.9"/>
+  <circle cx="603" cy="166.75" r="2.25" fill="#9d6bff" fill-opacity="0.9"/>
+
+  <!-- Typography -->
+  <text x="600" y="148" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="56" font-weight="700" letter-spacing="10" fill="url(#nameGrad)">SHRIKANT DAPKE</text>
+  <text x="600" y="198" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="17" font-weight="500" letter-spacing="6" fill="#9fb4e8">AI &amp; SOFTWARE DEVELOPER</text>
+  <text x="600" y="236" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15.5" font-style="italic" fill="#7e889d">Building what I once wished existed.</text>
+</svg>

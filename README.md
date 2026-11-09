@@ -1,18 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:1F6FEB&height=210&section=header&text=SHRIKANT%20DAPKE&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=AI%20%26%20SOFTWARE%20DEVELOPER&descSize=16&descAlignY=60&animation=fadeIn" width="100%" alt="Shrikant Dapke — AI and Software Developer">
+<img src="./assets/banner.svg" alt="Shrikant Dapke — AI & Software Developer" width="100%">
 
 <br>
 
 <a href="https://github.com/Shrikant-Dapke">GitHub</a> &nbsp;·&nbsp;
 <a href="https://www.linkedin.com/in/shrikant-dapke/">LinkedIn</a> &nbsp;·&nbsp;
 <a href="https://github.com/Shrikant-Dapke/J.A.R.V.I.S">J.A.R.V.I.S</a>
-
-<br><br>
-
-<strong>Building what I once wished existed.</strong>
-<br>
-<sub>Exploring intelligent systems, engineering useful software, and turning ambitious ideas into working products.</sub>
 
 <br><br>
 
