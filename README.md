@@ -65,12 +65,11 @@ An AI-powered desktop assistant that turns natural-language requests into struct
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Shrikant-Dapke&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=E6EDF3&icon_color=58A6FF&ring_color=58A6FF" height="165" alt="GitHub statistics">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrikant-Dapke&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=E6EDF3" height="165" alt="Most used languages">
+<img src="./assets/stats.svg" alt="GitHub analytics — repositories, stars, followers, contributions and language distribution">
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=Shrikant-Dapke&hide_border=true&background=0D1117&ring=58A6FF&fire=F0883E&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" width="85%" alt="GitHub contribution streak">
+<img src="https://streak-stats.demolab.com?user=Shrikant-Dapke&hide_border=true&background=0D1117&ring=58A6FF&fire=F0883E&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" width="100%" alt="GitHub contribution streak">
 
 </div>
 
