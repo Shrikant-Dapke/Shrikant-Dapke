@@ -1,93 +1,98 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Shrikant Dapke — Full Stack Developer and AI Enthusiast" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:1F6FEB&height=210&section=header&text=SHRIKANT%20DAPKE&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=AI%20%26%20SOFTWARE%20DEVELOPER&descSize=16&descAlignY=60&animation=fadeIn" width="100%" alt="Shrikant Dapke — AI and Software Developer">
 
 <br>
 
-[GitHub](https://github.com/Shrikant-Dapke) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/shrikant-dapke/) &nbsp;·&nbsp; [J.A.R.V.I.S](https://github.com/Shrikant-Dapke/J.A.R.V.I.S)
+<a href="https://github.com/Shrikant-Dapke">GitHub</a> &nbsp;·&nbsp;
+<a href="https://www.linkedin.com/in/shrikant-dapke/">LinkedIn</a> &nbsp;·&nbsp;
+<a href="https://github.com/Shrikant-Dapke/J.A.R.V.I.S">J.A.R.V.I.S</a>
+
+<br><br>
+
+<strong>Building what I once wished existed.</strong>
+<br>
+<sub>Exploring intelligent systems, engineering useful software, and turning ambitious ideas into working products.</sub>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Shrikant-Dapke&style=flat-square&color=1F6FEB&label=PROFILE+VIEWS" alt="Profile views">
 
 </div>
 
-<br>
+---
 
-## About
+## 👋 About
 
-I'm a Computer Science & Engineering (AI & Analytics) student at **MIT ADT University, Pune**, building full stack software and intelligent systems.
+I'm a Computer Science & Engineering student specializing in **AI & Analytics** at **MIT ADT University, Pune**.
 
-I'm drawn to the point where AI stops being a demo and becomes a tool you can rely on: agents that act, local models that stay private, and desktop software that feels native. I care as much about architecture and design quality as I do about making things work.
+I'm interested in the engineering behind useful, dependable software — from AI systems that can take action to desktop applications that feel practical and intuitive. I enjoy working across the stack, understanding how systems fit together, and paying attention to the details that make software reliable.
 
-**Interests:** Full Stack Development · AI Agents · Desktop Applications · Automation · System Architecture · Local AI Models
+**Areas I explore:** AI agents · Intelligent systems · Full-stack engineering · Desktop applications · Automation · System architecture · Local AI
 
-<br>
+## ⚡ Currently Building
 
-## Currently Building
+### [J.A.R.V.I.S.](https://github.com/Shrikant-Dapke/J.A.R.V.I.S)
+**Just A Rather Very Intelligent System**
 
-<table>
-<tr>
-<td>
+An AI-powered desktop assistant that turns natural-language requests into structured tasks, interacts with desktop tools, and verifies whether actions actually succeeded.
 
-### [J.A.R.V.I.S.](https://github.com/Shrikant-Dapke/J.A.R.V.I.S) — Just A Rather Very Intelligent System
+- **Task planning** — translates requests into structured, actionable steps.
+- **Tool orchestration** — coordinates tools with approval mechanisms.
+- **Voice interaction** — integrates local speech recognition and speech generation.
+- **Execution verification** — checks outcomes instead of assuming an action worked.
 
-An AI-powered desktop assistant that understands natural-language requests, converts them into structured tasks, interacts with desktop tools, and **verifies that actions actually succeeded** instead of assuming they did.
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" alt="Electron">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Local_AI-6E56CF?style=flat-square" alt="Local AI">
+</p>
 
-- **Natural language to structured tasks** — requests are planned before anything runs
-- **Tool orchestration with approval mechanisms** — you stay in control of what executes
-- **Voice interaction** powered by local AI models
-- **Action verification** — outcomes are checked, not trusted
+[Explore the project →](https://github.com/Shrikant-Dapke/J.A.R.V.I.S)
 
-`Python` `FastAPI` `Electron` `React` `TypeScript` `Local AI Models`
+## 🧰 Technologies
 
-[View repository →](https://github.com/Shrikant-Dapke/J.A.R.V.I.S)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,react,nextjs,nodejs,express,fastapi,electron,mongodb,postgres,git,github,vscode&theme=dark&perline=8" alt="Technologies and tools">
+</p>
 
-</td>
-</tr>
-</table>
-
-<br>
-
-## Tech Stack
-
-| Area | Tools |
-| :-- | :-- |
-| **Languages** | Python · TypeScript |
-| **Backend** | FastAPI |
-| **Frontend & Desktop** | React · Electron |
-| **AI & Agents** | Local AI models · Voice interaction · Tool orchestration |
-| **Focus** | Automation · System architecture |
-
-<br>
-
-## Achievements
+## 🏆 Achievements
 
 | Event | Result |
-| :-- | :-- |
-| **National AI/ML Hackathon** — IIT Hyderabad | 6th Position, Top 10 |
-| **Foodscope Hackathon** — IIIT Delhi | Top 10 · selected from 1000+ teams · advanced to the offline round of 84 teams |
-| **Revengers Hackathon** | Rank 7 |
+| :--- | :--- |
+| National AI/ML Hackathon — IIT Hyderabad | **6th Place · Top 10** |
+| Foodscope Hackathon — IIIT Delhi | **Top 10 · 84 offline finalists**, selected from 1,000+ teams |
+| Revengers Hackathon | **Rank 7** |
 
-<br>
-
-## GitHub Analytics
+## 📈 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Shrikant-Dapke&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF&icon_color=58A6FF&text_bold=false" alt="GitHub stats" width="49%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrikant-Dapke&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF" alt="Most used languages" width="49%">
+<img src="https://github-readme-stats.vercel.app/api?username=Shrikant-Dapke&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=E6EDF3&icon_color=58A6FF&ring_color=58A6FF" height="165" alt="GitHub statistics">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrikant-Dapke&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=E6EDF3" height="165" alt="Most used languages">
 
-<br>
+<br><br>
 
-<img src="https://streak-stats.demolab.com/?user=Shrikant-Dapke&theme=dark&background=0D1117&border=21262D&ring=58A6FF&fire=58A6FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub contribution streak" width="98%">
+<img src="https://streak-stats.demolab.com?user=Shrikant-Dapke&hide_border=true&background=0D1117&ring=58A6FF&fire=F0883E&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" width="85%" alt="GitHub contribution streak">
 
 </div>
 
-<br>
-
-## Connect
+## 🤝 Connect
 
 <div align="center">
 
-[**LinkedIn**](https://www.linkedin.com/in/shrikant-dapke/) &nbsp;·&nbsp; [**GitHub**](https://github.com/Shrikant-Dapke)
+<a href="https://www.linkedin.com/in/shrikant-dapke/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn">
+</a>
+<a href="https://github.com/Shrikant-Dapke">
+  <img src="https://img.shields.io/badge/GitHub-Follow-21262D?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub">
+</a>
 
-<sub>Open to internships and collaborations in software and AI.</sub>
+<br><br>
+
+<sub>Curious by nature. Intentional in design. Always building.</sub>
 
 </div>
