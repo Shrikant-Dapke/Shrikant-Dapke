@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <img src="./assets/banner.svg" alt="Shrikant Dapke — AI & Software Developer" width="100%">
@@ -16,56 +17,87 @@
 
 ---
 
-## 👋 About
+## 👋 About Me
 
-I'm a Computer Science & Engineering student specializing in **AI & Analytics** at **MIT ADT University, Pune**.
+I'm a Computer Science & Engineering student specializing in **Artificial Intelligence & Analytics** at **MIT ADT University, Pune**.
 
-I'm interested in the engineering behind useful, dependable software — from AI systems that can take action to desktop applications that feel practical and intuitive. I enjoy working across the stack, understanding how systems fit together, and paying attention to the details that make software reliable.
+I'm a developer who enjoys building useful software and understanding the engineering behind it. My interests span full-stack development, AI-powered applications, intelligent automation, and desktop systems.
 
-**Areas I explore:** AI agents · Intelligent systems · Full-stack engineering · Desktop applications · Automation · System architecture · Local AI
+I like taking ideas beyond prototypes — designing architecture, building products, testing edge cases, and refining the experience.
 
-## ⚡ Currently Building
+> **Building what I once wished existed.**
 
-### [J.A.R.V.I.S.](https://github.com/Shrikant-Dapke/J.A.R.V.I.S)
-**Just A Rather Very Intelligent System**
+**Areas of Interest:** AI Agents · Full-Stack Engineering · Desktop Applications · Local AI · Automation · System Architecture
 
-An AI-powered desktop assistant that turns natural-language requests into structured tasks, interacts with desktop tools, and verifies whether actions actually succeeded.
+## 🚀 Currently Building
 
-- **Task planning** — translates requests into structured, actionable steps.
-- **Tool orchestration** — coordinates tools with approval mechanisms.
-- **Voice interaction** — integrates local speech recognition and speech generation.
-- **Execution verification** — checks outcomes instead of assuming an action worked.
+### [J.A.R.V.I.S. — Just A Rather Very Intelligent System](https://github.com/Shrikant-Dapke/J.A.R.V.I.S)
+
+An AI-powered desktop assistant designed to turn natural-language requests into structured tasks and execute them through controlled, verifiable tool interactions.
+
+Rather than being just another chatbot, J.A.R.V.I.S. is built around planning, orchestration, execution, and verification.
+
+- **Task Planning:** Converts user requests into structured execution plans.
+- **Tool Orchestration:** Coordinates tools and bounded workflows.
+- **Approval Gates:** Keeps sensitive actions under user control.
+- **Voice Engine:** Integrates local speech recognition and speech generation.
+- **Desktop Experience:** Electron, React, and TypeScript interface.
+- **Local-First Architecture:** Designed around local models and services.
+
+**Technology Stack:**
+
+`Python` `FastAPI` `Electron` `React` `TypeScript` `sherpa-onnx` `Kokoro TTS`
+
+[Explore J.A.R.V.I.S. →](https://github.com/Shrikant-Dapke/J.A.R.V.I.S)
+
+## 💻 Selected Projects
+
+| Project | Description | Focus |
+| :--- | :--- | :--- |
+| [J.A.R.V.I.S.](https://github.com/Shrikant-Dapke/J.A.R.V.I.S) | AI-powered desktop assistant with planning, tools, voice, and execution verification. | AI · Desktop |
+| ShelfSense | Intelligent inventory management platform. | Full Stack · AI |
+| DS Properties | Property and plotting business management system. | Full Stack |
+| MuleGuard | Project focused on detecting and addressing mule-account and financial fraud risks. | AI · Security |
+
+## 🛠️ Tech Stack
+
+**Languages**
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
-  <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" alt="Electron">
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Local_AI-6E56CF?style=flat-square" alt="Local AI">
+<img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp&theme=dark" alt="Programming languages">
 </p>
 
-[Explore the project →](https://github.com/Shrikant-Dapke/J.A.R.V.I.S)
+**Frontend & Backend**
 
-## 🧰 Technologies
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,react,nextjs,nodejs,express,fastapi,electron,mongodb,postgres,git,github,vscode&theme=dark&perline=8" alt="Technologies and tools">
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,tailwind,electron&theme=dark" alt="Frontend and backend technologies">
 </p>
 
-## 🏆 Achievements
+**Databases & Tools**
 
-| Event | Result |
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,git,github,vscode,ollama&theme=dark" alt="Databases and development tools">
+</p>
+
+## 🏆 Hackathons & Achievements
+
+| Hackathon | Achievement |
 | :--- | :--- |
-| National AI/ML Hackathon — IIT Hyderabad | **6th Place · Top 10** |
-| Foodscope Hackathon — IIIT Delhi | **Top 10 · 84 offline finalists**, selected from 1,000+ teams |
+| National AI/ML Hackathon — IIT Hyderabad | **6th Position · Top 10** |
+| Foodscope Hackathon — IIIT Delhi | **Top 10**, selected among 84 offline finalists from 1,000+ teams |
 | Revengers Hackathon | **Rank 7** |
 
-## 📈 GitHub Analytics
+## 💼 Experience
+
+### DS Properties — Summer Internship & Freelance Project
+
+Worked on a property and plotting business management system, contributing to the development of a practical software solution for business operations.
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="./assets/stats.svg" alt="GitHub analytics — repositories, stars, followers, contributions and language distribution">
+<img src="./assets/stats.svg" alt="GitHub statistics" width="100%">
 
 <br><br>
 
@@ -73,15 +105,16 @@ An AI-powered desktop assistant that turns natural-language requests into struct
 
 </div>
 
-## 🤝 Connect
+## 🤝 Let's Connect
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/shrikant-dapke/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
+
 <a href="https://github.com/Shrikant-Dapke">
-  <img src="https://img.shields.io/badge/GitHub-Follow-21262D?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub">
+<img src="https://img.shields.io/badge/GitHub-Follow-21262D?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
 <br><br>
